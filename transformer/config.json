@@ -1,0 +1,13 @@
+{
+    "img_size" : 28,
+    "in_chans" : 1,
+    "patch_size" : 4,
+    "embed_dim" : 32,
+    "depth" : 2,
+    "n_heads" : 2,
+    "qkv_bias" : true,
+    "mlp_ratio" : 0.4,
+    "p" : 0.2,
+    "attn_p" : 0.2,
+    "n_classes" : 10
+}
