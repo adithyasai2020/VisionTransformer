@@ -1,7 +1,7 @@
 import numpy as np
 import timm
 import torch
-from VisionTransformer.transformer.Vision_transformer import VisionTransformer
+from transformer.Vision_transformer import VisionTransformer
 
 # Helpers
 def get_n_params(module):
